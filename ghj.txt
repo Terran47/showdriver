@@ -1,0 +1,6 @@
+allias: showdriver
+allias pass: dfgrt454fF
+keystore pass: dffgnc56J
+
+
+
